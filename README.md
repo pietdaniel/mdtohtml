@@ -51,7 +51,7 @@ $ ./cmd.sh MY_FILE.md
 ```
 
 This will create a web ready html file that
-imports hljs and replaces the ```\`\`\`syntax```
+imports hljs and replaces the ``````syntax```
 with the appropriate html tags
 
 ----------------
