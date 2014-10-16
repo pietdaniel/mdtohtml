@@ -2,13 +2,9 @@
 
 ## About
 
-This is a simple script that uses highlight js and markdowns native <br>
-markdown to html converter to turn md files into viewable web pages <br>
-<br>
-More info on markdown can be found [here](http://daringfireball.net/projects/markdown/)
-
-I built this to sovle the problem of not retaining syntax highlight <br>
-when converting markdown to html.
+> This is a simple script that uses highlight js and markdowns native markdown to html converter to turn md files into viewable web pages
+> More info on markdown can be found [here](http://daringfireball.net/projects/markdown/)
+> I built this to sovle the problem of not retaining syntax highlight when converting markdown to html.
 
 ----------------
 
@@ -17,7 +13,8 @@ when converting markdown to html.
 ### Markdown
 
 This script was made with markdown 1.0.1-6 and hljs 8.2 <br>
-markdown can be installed via:<br>
+markdown can be installed via
+
 ```
 pacman -S markdown
 ```
